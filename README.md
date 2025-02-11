@@ -32,7 +32,7 @@ Check out the **`Day-1` folder** for detailed scripts and notes.
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/techsaksham-training.git  
+   https://github.com/sakshi04-ui/TechSaksham-Training-Journey.git  
    ```  
 2. Navigate through folders to explore day-wise notes, code, and projects.  
 3. Feel free to use or improve the code for your own learning purposes.  
