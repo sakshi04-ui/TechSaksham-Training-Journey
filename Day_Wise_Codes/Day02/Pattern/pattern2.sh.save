@@ -1,0 +1,31 @@
+
+#!/bin/bash
+
+#This is pattern 2
+#printing  A
+
+for((row = 1; row <= 5 ; row++ ))
+do
+for((col = i; col <=5;col++))
+do
+if [ $col -eq $row ]; then
+for ((row = 1; row <= 5; row++))
+do
+  for ((col = 1; col <= 5; col++))  # Corrected inner loop start
+  do
+    if [ $col -eq $row ]; then
+      echo -n "*"
+    else
+      echo -n " "
+    fi
+  done
+  echo
+doneecho -n "*"
+else
+echo -n " "
+fi
+done
+echo
+done
+
+

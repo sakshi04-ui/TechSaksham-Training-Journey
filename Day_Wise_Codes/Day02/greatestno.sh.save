@@ -1,0 +1,40 @@
+#!/bin/bash
+
+echo "Enter the number: "
+read num1
+read num2
+read num3
+read num4
+
+ifif [ $num1 -gt $num2 ];
+then 
+ if [ $num1 -gt $num3];
+then
+   if [ $num1 -gt $num4];
+echo "$num1, is greatest"
+ [ $num1 -gt $num2 ];
+then 
+ if [ $num1 -gt $num3];
+then
+   if [ $num1 -gt $num4];
+echo "$num1, is greatest"
+
+
+elif [ $num2 -gt $num1 ];
+then 
+ if [ $num2 -gt $num3];
+then
+   if [ $num2 -gt $num4];
+echo "$num2, is greatest"
+
+elif [ $num3 -gt $num1 ];
+then 
+ if [ $num3 -gt $num2];
+then
+   if [ $num3 -gt $num4];
+echo "$num3, is greatest"
+
+else
+echo "$num4, is greatest"
+
+fi
