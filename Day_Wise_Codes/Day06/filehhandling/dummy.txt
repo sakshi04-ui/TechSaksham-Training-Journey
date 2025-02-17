@@ -1,0 +1,3 @@
+Welcome to the Dummy Text Generator
+This handy tool helps you create dummy data for
+all generour
