@@ -8,7 +8,7 @@ The TechSaksham program is a skill-building initiative designed to equip student
 - **Python (Core and Advanced)**  
 - **Relational Databases (CRUD Operations with Python)**  
 
-## 📂 Repository Structure  
+## 📂 Repository Structure   
 
 - **`Day-wise Notes`**: Contains detailed notes for each day's topics, including commands, examples, and solutions.  
 - **`Shell Scripts`**: Sample scripts written during the Linux shell scripting sessions.  
